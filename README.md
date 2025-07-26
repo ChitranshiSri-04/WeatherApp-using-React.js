@@ -1,3 +1,25 @@
+🌦️ Weather App using React.js
+This is a simple and responsive Weather Application built with React.js and the OpenWeatherMap API. It allows users to search for any city and get real-time weather information, including:
+
+🌡️ Temperature (in Celsius)
+
+💧 Humidity
+
+💨 Wind Speed
+
+⛅ Dynamic weather icons based on conditions
+
+🚀 Features
+React functional components and Hooks (useState, useEffect)
+
+Live API data fetching
+
+Clean and intuitive UI
+
+Error handling for invalid city names
+
+Custom weather icons for each condition
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
