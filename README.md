@@ -1,4 +1,4 @@
-🌦️ Weather App using React.js
+🌦️ Weather App using React.js-
 This is a simple and responsive Weather Application built with React.js and the OpenWeatherMap API. It allows users to search for any city and get real-time weather information, including:
 
 🌡️ Temperature (in Celsius)
